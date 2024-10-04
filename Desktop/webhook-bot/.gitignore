@@ -1,0 +1,21 @@
+# macOS spezifische Dateien
+.DS_Store
+.CFUserTextEncoding
+.Trash/
+
+# Node.js und npm spezifische Dateien
+node_modules/
+package-lock.json
+
+# Systemverzeichnisse ignorieren
+/Applications/
+/Documents/
+/Downloads/
+/Library/
+/Movies/
+/Music/
+/Pictures/
+/Public/
+
+# Weitere Verzeichnisse und Dateien
+*.log
