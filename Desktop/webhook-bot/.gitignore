@@ -1,14 +1,12 @@
 # macOS spezifische Dateien
 .DS_Store
-.CFUserTextEncoding
 .Trash/
+.CFUserTextEncoding
 
-# Node.js und npm spezifische Dateien
+# Node.js spezifische Dateien
 node_modules/
-package-lock.json
 
 # Systemverzeichnisse ignorieren
-/Applications/
 /Documents/
 /Downloads/
 /Library/
@@ -20,7 +18,6 @@ package-lock.json
 # Weitere Verzeichnisse und Dateien
 *.log
 # Node.js modules
-node_modules/
+npm-debug.log
 
 # Log-Dateien
-npm-debug.log
