@@ -21,3 +21,9 @@ node_modules/
 npm-debug.log
 
 # Log-Dateien
+*.tmp
+*.zip
+*.exe
+*.tar.gz
+*.bak
+Temp/
