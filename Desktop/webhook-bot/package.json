@@ -1,11 +1,15 @@
 {
-  "name": "webhook-bot",
+  "name": "rehaar-whatsapp-bot",
   "version": "1.0.0",
+  "description": "Ein WhatsApp-Bot für Rehaar Haartransplantation",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  },
+  "author": "Rehaar",
+  "license": "ISC"
 }

@@ -19,3 +19,8 @@ package-lock.json
 
 # Weitere Verzeichnisse und Dateien
 *.log
+# Node.js modules
+node_modules/
+
+# Log-Dateien
+npm-debug.log
